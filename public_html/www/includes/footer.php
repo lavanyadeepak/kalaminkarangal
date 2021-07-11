@@ -20,24 +20,11 @@
                   <li><a href="index.php?pg=aG9tZQ==">Home</a></li>
                   <li><a href="index.php?pg=YWJvdXQ=">About Us</a></li>
                   <li><a href="index.php?pg=c2VydmljZXM=">Services</a></li>
-                  <li><a href="blog.html">Blog</a></li>
                   <li><a href="index.php?pg=Y29udGFjdA==">Contact Us</a></li>s
             </ol>
           </div>
         </div>
-        <div class="col-lg-3 col-md-3 col-sm-6 col-6">
-          <div class="footer-content">
-            <h2>Services</h2>
-            <ol>
-              <li><a href="#"><i class="fal fa-angle-double-right"></i>Home</a></li>
-              <li><a href="#"><i class="fal fa-angle-double-right"></i>About Us</a></li>
-              <li><a href="#"><i class="fal fa-angle-double-right"></i>Services</a></li>
-              <li><a href="#"><i class="fal fa-angle-double-right"></i>Blog</a></li>
-              <li><a href="#"><i class="fal fa-angle-double-right"></i>Contact Us</a></li>
-            </ol>
-          </div>
-        </div>
-        <div class="col-lg-3 col-md-3 col-sm-6 col-6">
+          <div class="col-lg-3 col-md-3 col-sm-6 col-6" style="display:none;">
           <div class="footer-content">
             <h2>News Letters</h2>
             <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
