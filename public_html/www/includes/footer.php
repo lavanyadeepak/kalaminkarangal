@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-lg-3 col-md-3 col-sm-6 col-6">
           <div class="footer-content">
-            <ul>
+              <ul>
               <li><i class="fab fa-facebook-f"></i></li>
               <li><i class="fab fa-twitter"></i></li>
               <li><i class="fab fa-google"></i></li>
@@ -20,7 +20,7 @@
                   <li><a href="index.php?pg=aG9tZQ==">Home</a></li>
                   <li><a href="index.php?pg=YWJvdXQ=">About Us</a></li>
                   <li><a href="index.php?pg=c2VydmljZXM=">Services</a></li>
-                  <li><a href="index.php?pg=Y29udGFjdA==">Contact Us</a></li>s
+                  <li><a href="index.php?pg=Y29udGFjdA==">Contact Us</a></li>
             </ol>
           </div>
         </div>

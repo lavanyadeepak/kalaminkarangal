@@ -15,15 +15,15 @@ IFSC Code: IDIB000L006
                     </div>
                     <h3>Paypal</h3>
                     <div>
-                        
+                        Please send a request to us to share the <strong>Paypal</strong> link. 
                     </div>
                     <h3>BharatPe QR</h3>
                     <div>
-                        
+                        Please send a request to us to share the <strong>BharatPe</strong> compliant request to be initiated.
                     </div>
                 </div>
     
-</div>
+</div>s
   <!-- =====================>>>>>Team Started>>>>>======================== -->
 
   <script type="text/javascript">
