@@ -1,0 +1,27 @@
+name: 🚀 Deploy website on push
+
+on:
+  push:
+    branches:
+      - master
+
+jobs:
+  web-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 📂 Checkout code
+        uses: actions/checkout@v4
+
+      - name: 🚚 FTP Deploy
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.6
+        with:
+          server: srivaibhavam.in
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ftps
+          port: 21
+          local-dir: ./public_html/
+          server-dir: /kalaminkarangal.com/
+          dangerous-clean-slate: false   # 👈 prevents deleting remote files
+
+ 
