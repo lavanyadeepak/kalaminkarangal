@@ -20,8 +20,6 @@ jobs:
           password: ${{ secrets.FTP_PASSWORD }}
           protocol: ftps
           port: 21
-          local-dir: ./public_html/
+          local-dir: ./public_html/www/
           server-dir: /kalaminkarangal.com/
           dangerous-clean-slate: false   # 👈 prevents deleting remote files
-
- 

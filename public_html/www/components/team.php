@@ -10,11 +10,19 @@
           <div class="team-setup">
             <div class="team-items">
               <div class="team-user">
-                <img src="assets/images/team/1.jpeg">
+                <img src="assets/images/team/1.jpg">
+              </div>
+              <div class="team-user-social">
+                <ol>
+                  <li><i class="fab fa-facebook-f"></i></li>
+                  <li><i class="fab fa-twitter"></i></li>
+                  <li><i class="fab fa-google"></i></li>
+                  <li><i class="fab fa-skype"></i></li>
+                </ol>
               </div>
               <div class="team-name">
-                <h2>Seshathri Santhanam</h2>
-                <b>Founder</b>
+                <h2>JOHN</h2>
+                <b>Attorneys</b>
               </div>
             </div>
           </div>
@@ -22,26 +30,63 @@
           <div class="team-setup">
             <div class="team-items">
               <div class="team-user">
-                <img src="assets/images/team/2.jpeg">
+                <img src="assets/images/team/2.jpg">
+              </div>
+              <div class="team-user-social">
+                <ol>
+                  <li><i class="fab fa-facebook-f"></i></li>
+                  <li><i class="fab fa-twitter"></i></li>
+                  <li><i class="fab fa-google"></i></li>
+                  <li><i class="fab fa-skype"></i></li>
+                </ol>
               </div>
               <div class="team-name">
-                <h2>Kavitha Ganesh</h2>
-                <b>Secretary</b>
+                <h2>TURNER</h2>
+                <b>Attorneys</b>
               </div>
             </div>
           </div>
-            
-           <div class="team-setup">
+
+          <div class="team-setup">
             <div class="team-items">
               <div class="team-user">
-                <img src="assets/images/team/3.jpeg">
+                <img src="assets/images/team/3.jpg">
+              </div>
+              <div class="team-user-social">
+                <ol>
+                  <li><i class="fab fa-facebook-f"></i></li>
+                  <li><i class="fab fa-twitter"></i></li>
+                  <li><i class="fab fa-google"></i></li>
+                  <li><i class="fab fa-skype"></i></li>
+                </ol>
               </div>
               <div class="team-name">
-                <h2>Praveen</h2>
-                <b>Treasurer</b>
+                <h2>GILBERT WILLIAMS</h2>
+                <b>Attorneys</b>
               </div>
             </div>
-          </div> 
+          </div>
+
+          <div class="team-setup">
+            <div class="team-items">
+              <div class="team-user">
+                <img src="assets/images/team/4.jpg">
+              </div>
+              <div class="team-user-social">
+                <ol>
+                  <li><i class="fab fa-facebook-f"></i></li>
+                  <li><i class="fab fa-twitter"></i></li>
+                  <li><i class="fab fa-google"></i></li>
+                  <li><i class="fab fa-skype"></i></li>
+                </ol>
+              </div>
+              <div class="team-name">
+                <h2>ANDERSON JHON</h2>
+                <b>Attorneys</b>
+              </div>
+            </div>
+          </div>
+
         </div>
       </div>
     </div>
