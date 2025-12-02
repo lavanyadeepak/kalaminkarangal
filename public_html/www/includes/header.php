@@ -13,35 +13,9 @@
     <link rel="stylesheet" href="assets/css/jquery-ui.theme.min.css" />
     <script src="assets/js/jquery-3.2.1.min.js"></script>
 <script src="assets/js/jquery-ui.min.js"></script>
-<style type="text/css">
-    #navbar {
-        overflow: hidden;
-        background-color: #333;
-      }
-      
-   .content {
-  padding: 16px;
-}
-
-.sticky {
-  position: fixed;
-  top: 0;
-  width: 100%;
-}
-
-.sticky + .content {
-  padding-top: 60px;
-}
-</style>
 </head>
 
 <body>
-    
-    <div id="navbar" align="center" style="color:#fff;">
-        This is a <strong>beta</strong> version of the website.
-    </div>
- 
-    
   <!-- ======================header started====================== -->
   <header>
     <div class="my-nav">
@@ -70,18 +44,3 @@
       </div>
     </div>
   </header>
-  
-  <script>
-window.onscroll = function() {myFunction()};
-
-var navbar = document.getElementById("navbar");
-var sticky = navbar.offsetTop;
-
-function myFunction() {
-  if (window.pageYOffset >= sticky) {
-    navbar.classList.add("sticky")
-  } else {
-    navbar.classList.remove("sticky");
-  }
-}
-</script>
