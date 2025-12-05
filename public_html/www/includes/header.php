@@ -23,7 +23,7 @@
         <div class="row">
           <div class="nav-items">
             <div class="logo">
-                <img src="assets/images/apj18.png" width="180" height="70">
+                <img src="assets/images/logo_1.jpg" width="180" height="70">
             </div>
             <div class="menu-toggle">
               <div class="menu-hamburger"></div>
